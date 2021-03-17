@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Hi, I'm **Jeff**, and I'm --learning to code-- a software developer
+## Hi, I'm **Jeff**, and I'm ~~learning to code~~ a *_software developer_*
 
 
 <!--
