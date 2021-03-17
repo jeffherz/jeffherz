@@ -1,6 +1,6 @@
 
-# Hi, I'm **Jeff**, and I'm ~~learning to code~~ a *_software developer_*
-                                                                     and forever learning how to code
+# Hi, I'm **Jeff**, and I'm ~~learning to code~~... a *_software developer_*
+##### ... and forever learning how to code
  
 
  
