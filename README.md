@@ -1,7 +1,10 @@
 
 # Hi, I'm **Jeff**, and I'm ~~learning to code~~ a *_software developer_*
+## 
+                                                                     and forever learning how to code
+ 
 
-
+ 
 <!--
 **jeffherz/jeffherz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
