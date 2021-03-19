@@ -3,7 +3,7 @@
 ##### ... and forever learning how to code
  
 ### LinkedIn Profile: www.linkedin.com/in/jeffreyherz
- 
+### Exercises completed while at Tech Elevator: www.github.com/jeffherz/tech-elevator-exercises
 <!--
 **jeffherz/jeffherz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
