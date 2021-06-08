@@ -1,9 +1,10 @@
 
 # Hi, I'm **Jeff**, and I'm ~~learning to code~~... a *_software developer_*
-#### ... and forever learning how to code
+### ... and forever learning how to code
  
 ### LinkedIn Profile: www.linkedin.com/in/jeffreyherz
 ### Exercises completed while at Tech Elevator: www.github.com/jeffherz/tech-elevator-exercises
+### Capstone Projects while at Tech Elevator: www.github.com/jeffherz/tech-elevator-capstones
 
 #### While in school, I fell in love with graphic design and all things technology.  While using Adobe Illustrator and other design applications, I became interested in how the programs worked which led me to learning about software development.  I realized I could use my graphic design skills to create useful and easy to understand programs that anybody could use.  
 
