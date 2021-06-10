@@ -6,7 +6,7 @@
 ### Exercises completed while at Tech Elevator: www.github.com/jeffherz/tech-elevator-exercises
 ### Capstone Projects while at Tech Elevator: www.github.com/jeffherz/tech-elevator-capstones
 
-#### 🥏   I am currently in the process of creating a Disc Golf Application to track all of the discs in my collection and keep record of how many strokes over par I get at different courses <sub>(I need all the practice I can get!)</sub>
+#### 🥏  &nbsp; I am currently in the process of creating a Disc Golf Application to track all of the discs in my collection and keep record of how many strokes over par I get at different courses <sub>(I need all the practice I can get!)</sub>
 
 #### While in school, I fell in love with graphic design and all things technology.  While using Adobe Illustrator and other design applications, I became interested in how the programs worked which led me to learning about software development.  I realized I could use my graphic design skills to create useful and easy to understand programs that anybody could use.  
 
