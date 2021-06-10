@@ -2,7 +2,7 @@
 # Hi, I'm **Jeff**, and I'm ~~learning to code~~... a *_software developer_*
 ### ... and forever learning how to code
  
-### LinkedIn Profile: www.linkedin.com/in/jeffreyherz
+### 	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> &nbsp; LinkedIn Profile: www.linkedin.com/in/jeffreyherz
 ### Exercises completed while at Tech Elevator: www.github.com/jeffherz/tech-elevator-exercises
 ### Capstone Projects while at Tech Elevator: www.github.com/jeffherz/tech-elevator-capstones
 
