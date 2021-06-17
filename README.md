@@ -2,12 +2,17 @@
 # Hi, I'm **Jeff**, and I'm ~~learning to code~~... a *_software developer_*
 ### ... and forever learning how to code
  
+<!--icons-->
+![Java Logo](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) &nbsp; ![HTML 5 Logo](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) &nbsp; ![CSS Logo](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) &nbsp; ![JavaScript Log0](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) &nbsp; ![Vue.js Logo](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue-dot-js&logoColor=4FC08D) &nbsp; ![PostgreSQL Logo](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## Useful Links
 ### 	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> &nbsp; [My LinkedIn Page](www.linkedin.com/in/jeffreyherz)
 ### Exercises completed while at Tech Elevator: www.github.com/jeffherz/tech-elevator-exercises
 ### Capstone Projects while at Tech Elevator: www.github.com/jeffherz/tech-elevator-capstones
 
 #### 🥏  &nbsp; I am currently in the process of creating a Disc Golf Application to track all of the discs in my collection and keep record of how many strokes over par I get at different courses <sub>(I need all the practice I can get!)</sub>
 
+## About Me
 #### While in school, I fell in love with graphic design and all things technology.  While using Adobe Illustrator and other design applications, I became interested in how the programs worked which led me to learning about software development.  I realized I could use my graphic design skills to create useful and easy to understand programs that anybody could use.  
 
 #### I recently graduated from Tech Elevator, a 14-week Java bootcamp, in Cleveland, Ohio.  While at Tech Elevator, I used Java, PostgreSQL, web APIs, HTML, CSS, and JavaScript to create a vending machine application, national parks campsite registration, mobile banking app, and a meal planner. I learned a lot of new and exciting programs and am eager to continue learning.
