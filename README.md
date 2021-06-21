@@ -16,6 +16,8 @@
 #### While in school, I fell in love with graphic design and all things technology.  While using Adobe Illustrator and other design applications, I became interested in how the programs worked which led me to learning about software development.  I realized I could use my graphic design skills to create useful and easy to understand programs that anybody could use.  
 
 #### I recently graduated from Tech Elevator, a 14-week Java bootcamp, in Cleveland, Ohio.  While at Tech Elevator, I used Java, PostgreSQL, web APIs, HTML, CSS, and JavaScript to create a vending machine application, national parks campsite registration, mobile banking app, and a meal planner. I learned a lot of new and exciting programs and am eager to continue learning.
+
+###Looking forward to working with you in the future!
 <!--
 **jeffherz/jeffherz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
