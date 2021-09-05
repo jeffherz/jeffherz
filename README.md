@@ -2,6 +2,8 @@
 # Hi, I'm **Jeff**, and I'm ~~a physical therapist~~ a *software developer*
 ### I am constantly trying to learn new things and strengthen my skills to become a better programmer.
  
+ 
+ ### My skills include:
 <!--icons-->
 ![Java Logo](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) &nbsp; ![HTML 5 Logo](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) &nbsp; ![CSS Logo](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) &nbsp; ![JavaScript Log0](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) &nbsp; ![Vue.js Logo](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue-dot-js&logoColor=4FC08D) &nbsp; ![PostgreSQL Logo](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -17,7 +19,7 @@
 
 #### I recently graduated from Tech Elevator, a 14-week Java bootcamp, in Cleveland, Ohio.  While at Tech Elevator, I used Java, PostgreSQL, web APIs, HTML, CSS, and JavaScript to create a vending machine application, national parks campsite registration, mobile banking app, and a meal planner. I learned a lot of new and exciting programs and am eager to continue learning.
 
-### Looking forward to working with you in the future!
+### I'm looking forward to working with you in the future!
 <!--
 **jeffherz/jeffherz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
